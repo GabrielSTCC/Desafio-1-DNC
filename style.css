@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#cabecalho{
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 100px 0px 90px 0px;
+}
+
+#titulocabecalho{
+    margin: 0px 0px 0px 40px;
+}
+
+#inform{
+    
+    margin: 20px 0px 0px 40px;
+}
+
+#dados{
+    background-color: #F9F9F9;
+    height: 180px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#empreendimentos{
+    margin-left: 80px;
+}
+.txtdado{
+    margin: 70px 0px 0px 0px;
+}
+
+#informcaoInpresa{
+    background-color: #FFFFFF;
+    height: 570px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    display: flex;
+    align-items: center;
+    columns: auto;
+}
+
+#txtInformacaoImpresa{
+    margin: 50px;
+}
+
+#tituloInform{
+    margin-bottom: 25px;
+}
+
+#menuFormulario{
+    text-align: center;
+    background-color: #303030;
+    color: #FFFFFF;
+    height: 370px;
+
+}
+
+#tituloForm{
+    font-size: 20px;
+    margin: 20px;
+    padding-top: 65px;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    background-color: #EAECE5;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    margin: 30px ;
+    color: #FFFFFF;
+    border: 0px;
+    background-color:#C07212;
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
